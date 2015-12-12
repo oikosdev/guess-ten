@@ -1,0 +1,25 @@
+Name(7)
+=======
+
+
+NAME
+----
+guessten - Guess a number
+
+
+SYNOPSIS
+--------
+----
+#include <guessten.h>
+
+cc ['flags'] 'files' -lguessten ['libraries']
+----
+
+
+DESCRIPTION
+-----------
+
+Classes
+~~~~~~~
+
+Something.

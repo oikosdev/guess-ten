@@ -1,0 +1,25 @@
+Name(7)
+=======
+
+
+NAME
+----
+guess_ten - Guess a number
+
+
+SYNOPSIS
+--------
+----
+#include <guess_ten.h>
+
+cc ['flags'] 'files' -lguess-ten ['libraries']
+----
+
+
+DESCRIPTION
+-----------
+
+Classes
+~~~~~~~
+
+Something.
